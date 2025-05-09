@@ -14,16 +14,16 @@ This repository contains supplementary data and scripts (to follow) associated w
   - Tabulated data in CSV format (Supplementary Data 3 & 4)  
   - *Note:* Supplementary Data 3 was filtered using sequence identity (≥70%) and query coverage (≥70%) thresholds, retaining only the top hit per query (lowest E-value).
 
-- `qc/`  
+- `qc_scripts/`  
   Scripts for preprocessing and quality control of raw sequencing reads.
 
-- `assembly/`  
+- `assembly_scripts/`  
   Scripts for genome assembly and polishing.
 
-- `analysis/`  
+- `analysis_scripts/`  
   Scripts for consensus generation, variant calling, alignment, BLASTp alignmnet and result filtering/tabulation etc.
 
-- `figures/`  
+- `figure_scripts/`  
   Scripts for figure and plot generation.
 
 ## Requirements
