@@ -28,7 +28,7 @@ CONDA_ENV="biofigures"
 # File specifications
 COVERAGE_FILE="${COVERAGE_DIR}/Pur_regions.tsv"
 CONTIG_FILE="${CONTIG_DIR}/Pur_contig_alignments.tsv"  
-OUTPUT_PLOT="${OUTPUT_DIR}/Pur_cov_contig_plot.pdf"
+OUTPUT_PLOT="${OUTPUT_DIR}/Pur_cov_contig_plot.png"
 
 
 # Setup conda
@@ -280,7 +280,7 @@ ax.text(
 # Save plot
 ###############################################################################
 plt.tight_layout()
-plt.savefig(output_plot, bbox_inches="tight")
+plt.savefig(output_plot, dpi=300, bbox_inches="tight")
 
 print("Plot saved to:", output_plot)
 
