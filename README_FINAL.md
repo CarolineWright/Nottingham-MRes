@@ -857,13 +857,13 @@ GitHub repository: https://github.com/CarolineWright/Nottingham-MRes
 
 ## License
 
-[Specify your license here - e.g., MIT, GPL-3.0, etc.]
+[Insert]
 
 ---
 
 ## Contact
 
-For questions or issues regarding these scripts, please contact: [your email]
+For questions or issues regarding these scripts, please contact: caroline.wright@pirbright.ac.uk
 
 ---
 
