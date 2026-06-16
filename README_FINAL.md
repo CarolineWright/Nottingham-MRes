@@ -498,7 +498,7 @@ python simple_snp_heatmap_i.py combined_genomes.fasta figure4_snp_distances
 **Usage**:
 ```bash
 # Using micromamba
-micromamba activate LSDVmong2
+micromamba activate environment_recombination
 
 # Modify input file and output prefix in script
 sbatch 3seq_cor.sh
