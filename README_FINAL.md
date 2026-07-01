@@ -830,17 +830,21 @@ conda env update -f environments/environment_base.yml
 
 Raw sequencing reads for the 2022 Mongolian LSDV outbreak samples will be deposited in the NCBI Sequence Read Archive (SRA). 
 
-**Assembled Genomes**
+**Genome Sequences**
 
-Final consensus sequences generated in this study will be submitted to GenBank. 
+All five LSDV complete genome sequences analyzed in this study are now available in this repository's `/genomes` folder:
+
+- Three new 2022 Mongolian outbreak assemblies (FASTA and GenBank annotation formats)
+- Two reassembled 2021 Mongolian samples (FASTA format)
+
+**Submission Status**
+
+These sequences are in the process of being formally submitted to NCBI GenBank and will be assigned accession numbers upon acceptance.
 
 **Accession Numbers**
 
 GenBank accession numbers and SRA project identifiers will be updated in this README upon public release of data.
 
-**Requesting Pre-Publication Data**
-
-Researchers requiring access to data prior to public deposition are encouraged to contact the authors.
 
 ---
 
