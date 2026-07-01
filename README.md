@@ -837,6 +837,18 @@ All five LSDV complete genome sequences analyzed in this study are now available
 - Three new 2022 Mongolian outbreak assemblies (FASTA and GenBank annotation formats)
 - Two reassembled 2021 Mongolian samples (FASTA format)
 
+**Sequence Alignments**
+
+Sequence alignments used for all phylogenetic and comparative genomics analyses are available in the `/alignments` folder:
+
+- **Phylogenetic analysis**: `Fig_3.6A_FULL.fasta` (full-length genome alignment), `Fig_3.6B_GPCR.fasta` (GPCR region alignment), `Fig_3.7_Regional.fasta` (regional alignment)
+- **SNP distance analysis**: `Fig_3.8_HeatMap.fasta` (alignment for pairwise distance calculations)
+- **Recombination analysis**: `3seq_CORE.fasta` (core genome region), `3seq_5P_Accessory.fasta` (5' accessory region), `3seq_5Pext_Accessory.fasta` (extended 5' region), `3seq_3P_Accessory.fasta` (3' accessory region)
+- **Phylogenetic reconstruction of the core genome**: `Fig_3.9A_CORE_BP32.fasta` (central recombinant segment) and `Fig_3.9B_CORE_BP32CAT.fasta` (concatenated flanking breakpoint regions)
+- **Phylogenetic reconstruction of the 3' accessory genome**: `Fig_3.10_3P_BP8.fasta` (3' accessory recombinant segment)
+
+These alignments enable independent verification of all analyses presented in Results sections 3.3.1–3.3.3.
+
 **Submission Status**
 
 These sequences are in the process of being formally submitted to NCBI GenBank and will be assigned accession numbers upon acceptance.
